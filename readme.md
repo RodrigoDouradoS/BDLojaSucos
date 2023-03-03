@@ -8,11 +8,11 @@ Projeto desenvolvido em acompanhamento do curso da Alura: SQL com MySQL: Manipul
 Neste curso básico aprendemos aguns conceitos e práticas, tais como: 
 
 
-1.Instalar e configurar o **MYSQL**
-2.Manipulando o banco de dados
-   2.Criando tabelas
-   *Apagando tabelas
-3.Gerenciando as tabelas do banco de dados
+1. Instalar e configurar o **MYSQL**
+2. Manipulando o banco de dados
+   2. Criando tabelas
+   2. Apagando tabelas
+3. Gerenciando as tabelas do banco de dados
    *Inserindo conteúdo nas tabelas 
    *Adicionando Primary key
 4.Manutenção dos dados nas tabelas
