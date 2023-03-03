@@ -15,7 +15,7 @@ Neste curso básico aprendemos aguns conceitos e práticas, tais como:
 3. Gerenciando as tabelas do banco de dados
    *Inserindo conteúdo nas tabelas 
    *Adicionando Primary key
-4.Manutenção dos dados nas tabelas
+4. Manutenção dos dados nas tabelas
    *Atualizando valores das tabelas
    *Deletando conteúdo das tabelas 
    *Adicionando coluna em tabela ja existente
