@@ -7,17 +7,6 @@ Projeto desenvolvido em acompanhamento do curso da Alura: SQL com MySQL: Manipul
 
 Neste curso básico aprendemos aguns conceitos e práticas, tais como: 
 
-
-
-
-5. Consultando os dados
-   *Consultas simples
-   *Consultas com filtro **WHERE**
-   *Consultas usando **DISTINCT**
-   *Consultas usando colunas personalizadas no select
-   *Consultas utilizando o limite de colunas com a função **limit**
-   *Consultas com **ORDER BY**
-
 <dl>
     <dt>1. Instalar e configurar o **MYSQL**</dt>
     <dt>2. Manipulando o banco de dados</dt>
