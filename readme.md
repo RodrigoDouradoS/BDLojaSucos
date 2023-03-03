@@ -11,8 +11,8 @@ Neste curso básico aprendemos aguns conceitos e práticas, tais como:
 1.Instalar e configurar o **MYSQL**
 
 2.Manipulando o banco de dados
-        +Criando tabelas
-        +Apagando tabelas
+   2Criando tabelas
+   2Apagando tabelas
 
 3.Gerenciando as tabelas do banco de dados
     *Inserindo conteúdo nas tabelas 
