@@ -27,3 +27,9 @@ Neste curso básico aprendemos aguns conceitos e práticas, tais como:
    *Consultas utilizando o limite de colunas com a função **limit**
    *Consultas com **ORDER BY**
 
+<dl>
+    <dt>1. Instalar e configurar o **MYSQL**</dt>
+    <dt>2. Manipulando o banco de dados</dt>
+    <dd>- Criando tabelas</dd>
+    <dd>- Apagando tabelas</dd>
+</dl>
