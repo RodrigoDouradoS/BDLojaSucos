@@ -24,6 +24,6 @@ Neste curso básico aprendemos aguns conceitos e práticas, tais como:
         <dd>- Consultas com filtro **WHERE**</dd>
         <dd>- Consultas usando **DISTINCT**</dd>
         <dd>- Consultas usando colunas personalizadas no select</dd>
-        <dd>- Consultas utilizando o limite de colunas com a função **limit**</dd>
+        <dd>- Consultas utilizando o limite de colunas com a função **LIMIT**</dd>
         <dd>- Consultas com **ORDER BY**</dd>
 </dl>
