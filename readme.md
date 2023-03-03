@@ -8,17 +8,8 @@ Projeto desenvolvido em acompanhamento do curso da Alura: SQL com MySQL: Manipul
 Neste curso básico aprendemos aguns conceitos e práticas, tais como: 
 
 
-1. Instalar e configurar o **MYSQL**
-2. Manipulando o banco de dados
-      2.Criando tabelas
-      2.Apagando tabelas
-3. Gerenciando as tabelas do banco de dados
-      *Inserindo conteúdo nas tabelas 
-      *Adicionando Primary key
-4. Manutenção dos dados nas tabelas
-   *Atualizando valores das tabelas
-   *Deletando conteúdo das tabelas 
-   *Adicionando coluna em tabela ja existente
+
+
 5. Consultando os dados
    *Consultas simples
    *Consultas com filtro **WHERE**
@@ -32,4 +23,18 @@ Neste curso básico aprendemos aguns conceitos e práticas, tais como:
     <dt>2. Manipulando o banco de dados</dt>
         <dd>- Criando tabelas</dd>
         <dd>- Apagando tabelas</dd>
+    <dt>3. Gerenciando as tabelas do banco de dados</dt>
+        <dd>- Inserindo conteúdo nas tabelas</dd>
+        <dd>- Adicionando Primary key</dd>
+    <dt>4. Manutenção dos dados nas tabelas</dt>
+        <dd>- Atualizando valores das tabelas</dd>
+        <dd>- Deletando conteúdo das tabelas</dd>
+        <dd>- Adicionando coluna em tabela já existente</dd>
+    <dt>5. Consultando os dados</dt>
+        <dd>- Consultas simples</dd>
+        <dd>- Consultas com filtro **WHERE**</dd>
+        <dd>- Consultas usando **DISTINCT**</dd>
+        <dd>- Consultas usando colunas personalizadas no select</dd>
+        <dd>- Consultas utilizando o limite de colunas com a função **limit**</dd>
+        <dd>- Consultas com **ORDER BY**</dd>
 </dl>
